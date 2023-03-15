@@ -1,0 +1,15 @@
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\bin\Debug\net6.0\battlebots_top32_calculator.exe
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\bin\Debug\net6.0\battlebots_top32_calculator.deps.json
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\bin\Debug\net6.0\battlebots_top32_calculator.runtimeconfig.json
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\bin\Debug\net6.0\battlebots_top32_calculator.dll
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\bin\Debug\net6.0\battlebots_top32_calculator.pdb
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.csproj.AssemblyReference.cache
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.AssemblyInfoInputs.cache
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.AssemblyInfo.cs
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.csproj.CoreCompileInputs.cache
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.dll
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\refint\battlebots_top32_calculator.dll
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.pdb
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\battlebots_top32_calculator.genruntimeconfig.cache
+C:\Users\kubag\source\repos\battlebots_top32_calculator\battlebots_top32_calculator\obj\Debug\net6.0\ref\battlebots_top32_calculator.dll
